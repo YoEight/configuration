@@ -4,3 +4,7 @@ if [ -d "$ZDOTDIR/conf.d" ]; then
   done
   unset file
 fi
+
+export GIT_EDITOR=hx
+export EDITOR=hx
+export VISUAL=hx
