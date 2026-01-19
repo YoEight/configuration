@@ -1,6 +1,5 @@
-# Load all .zsh files from ~/.zsh directory
-if [ -d ./conf.d ]; then
-  for file in ./conf.d/*.zsh; do
+if [ -d "$ZDOTDIR/conf.d" ]; then
+  for file in "$ZDOTDIR/conf.d"/*.zsh; do
     [ -r "$file" ] && source "$file"
   done
   unset file
