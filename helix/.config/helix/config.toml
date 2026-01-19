@@ -1,0 +1,6 @@
+[editor]
+cursorline = true
+
+[editor.indent-guides]
+render = true
+skip-levels = 1
