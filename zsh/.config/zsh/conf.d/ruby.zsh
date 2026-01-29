@@ -1,4 +1,7 @@
 if command -v rbenv &> /dev/null; then
-  # rbenv is available, run your code here
   eval "$(rbenv init - --no-rehash zsh)"
+fi
+
+if command -v gem &> /dev/null; then
+  export PATH="$PATH:$(gem env user_gemhome)/bin"
 fi
