@@ -7,3 +7,9 @@ name = "rust"
 '[' = ']'
 '"' = '"'
 '`' = '`'
+
+[[language]]
+name = "ruby"
+auto-format = true
+formatter = { command = "rubocop", args = ["--stdin", "foo.rb", "-a", "--stderr", "--format", "quiet"] }
+language-servers = ["solargraph"]
