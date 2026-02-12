@@ -28,7 +28,10 @@
 # font-style = Medium
 font-size = 14
 
-theme = Apple System Colors
+theme = dark:Apple System Colors,light:Apple System Colors light
+cursor-style = block
+shell-integration-features = no-cursor
+
 # window-padding-x = 2
 #
 # # Spacing around the equals sign does not matter.
