@@ -7,3 +7,7 @@ skip-levels = 1
 
 [editor.file-picker]
 hidden = false
+
+[theme]
+light = "github_light"
+dark = "default"
