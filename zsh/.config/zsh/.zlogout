@@ -1,1 +1,0 @@
-/Users/yoeight/.config/zsh/.zprezto/runcoms/zlogout
