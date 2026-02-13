@@ -1,3 +1,6 @@
 [submodule "vendors/helix.vim"]
 	path = vendors/helix.vim
 	url = https://github.com/chtenb/helix.vim.git
+[submodule "zsh/.config/zsh/.zprezto"]
+	path = zsh/.config/zsh/.zprezto
+	url = git@github.com:YoEight/prezto.git
