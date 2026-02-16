@@ -5,4 +5,5 @@
 .zshenv
 .zlogout
 .zlogin
+.zshrc
 runtime/
