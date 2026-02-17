@@ -10,4 +10,4 @@ hidden = false
 
 [theme]
 light = "github_light"
-dark = "default"
+dark = "github_dark"
