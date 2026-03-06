@@ -24,11 +24,12 @@
 # font-family = PragmataPro Mono Liga
 # font-family = Berkeley Mono
 # font-family = IBM Plex Mono
-font-family = Adwaita Mono
+# font-family = Adwaita Mono
+font-family = Lilex
 font-thicken = true
 font-thicken-strength=0
 # font-style = Medium
-# font-size = 14
+font-size = 15
 
 theme = dark:Apple System Colors,light:Apple System Colors light
 cursor-style = block
